@@ -1,8 +1,0 @@
-C:\Users\Varsha Rane\source\repos\ConsoleApp1\ProductManagement2\bin\Debug\ProductManagement2.exe.config
-C:\Users\Varsha Rane\source\repos\ConsoleApp1\ProductManagement2\bin\Debug\ProductManagement2.exe
-C:\Users\Varsha Rane\source\repos\ConsoleApp1\ProductManagement2\bin\Debug\ProductManagement2.pdb
-C:\Users\Varsha Rane\source\repos\ConsoleApp1\ProductManagement2\obj\Debug\ProductManagement2.csproj.AssemblyReference.cache
-C:\Users\Varsha Rane\source\repos\ConsoleApp1\ProductManagement2\obj\Debug\ProductManagement2.csproj.SuggestedBindingRedirects.cache
-C:\Users\Varsha Rane\source\repos\ConsoleApp1\ProductManagement2\obj\Debug\ProductManagement2.csproj.CoreCompileInputs.cache
-C:\Users\Varsha Rane\source\repos\ConsoleApp1\ProductManagement2\obj\Debug\ProductManagement2.exe
-C:\Users\Varsha Rane\source\repos\ConsoleApp1\ProductManagement2\obj\Debug\ProductManagement2.pdb
